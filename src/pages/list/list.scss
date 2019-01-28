@@ -1,0 +1,9 @@
+
+.list-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  li {
+    cursor: pointer;
+  }
+}

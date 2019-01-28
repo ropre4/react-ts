@@ -1,0 +1,12 @@
+{
+  "extends": [],
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts"
+    ]
+  },
+  "rules": {
+    "noUnusedLocals": false
+  }
+}
